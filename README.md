@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+
  <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
