@@ -24,6 +24,6 @@ Olá Mundo! Eu sou o Lucas <img src="https://github.com/TheDudeThatCode/TheDudeT
 
 <div align="center">
 
-  ![Snake animation](https://github.com/lucasmonnteiro/lucasmonnteiro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Lucasmonnteiro/Lucasmonnteiro/blob/output/github-contribution-grid-snake.svg)
   
 </div>
