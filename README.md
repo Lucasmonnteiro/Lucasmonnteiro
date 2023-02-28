@@ -21,6 +21,7 @@ Olá Mundo! Eu sou o Lucas <img src="https://github.com/TheDudeThatCode/TheDudeT
   <a href="https://www.linkedin.com/in/lucas-monteiro-309365227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 <div align="center">
 
   ![Snake animation](https://github.com/lucasmonnteiro/lucasmonnteiro/blob/output/github-contribution-grid-snake.svg)
