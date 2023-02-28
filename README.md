@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá Mundo! 👋
 
 <!--
 **Lucasmonnteiro/Lucasmonnteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 </a>
 <a target="_blank" href="https://www.instagram.com/lucasmonnteiro_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://dev.to/aryclenio/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a target="_blank" href="lucmont00@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
