@@ -1,6 +1,6 @@
 Olá Mundo! 👋
 
-![Lucas Henrique Monteiro](https://github-readme-stats.vercel.app/api?username=LucasHenrique&show_icons=true)
+![Lucas Henrique Monteiro](https://github-readme-stats.vercel.app/api?username=Lucasmonnteiro&show_icons=true)
 
  <a target="_blank" href="https://www.linkedin.com/in/lucas-monteiro-309365227/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
