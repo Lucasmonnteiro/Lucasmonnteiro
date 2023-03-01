@@ -3,7 +3,6 @@ Hello World! I'm Lucas <img src="https://github.com/TheDudeThatCode/TheDudeThatC
 ##
 
 ![Lucas Henrique Monteiro](https://github-readme-stats.vercel.app/api?username=Lucasmonnteiro&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmonnteiro&theme=darkhttps://github.com/Lucasmonnteiro/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
