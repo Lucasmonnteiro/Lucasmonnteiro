@@ -1,4 +1,4 @@
-Olá Mundo! Eu sou o Lucas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+Hello World! I'm Lucas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ##
 
