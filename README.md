@@ -1,4 +1,4 @@
-# 👋 Olá, I'm Lucas Henrique Monteiro
+# 👋 Hello World! I'm Lucas
 
 Estudante de Ciência da Computação | Brasília, Brazil
 
