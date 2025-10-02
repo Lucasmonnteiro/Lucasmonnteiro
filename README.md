@@ -1,20 +1,27 @@
-Hello World! I'm Lucas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# 👋 Olá, I'm Lucas Henrique Monteiro
 
-##
+Estudante de Ciência da Computação | Brasília, Brazil
 
-![Lucas Henrique Monteiro](https://github-readme-stats.vercel.app/api?username=Lucasmonnteiro&show_icons=true)
+Bem-vindo ao meu perfil!
+Sou apaixonado por tecnologia e estou sempre em busca de transformar ideias em soluções funcionais. Meu foco está em aprender continuamente, explorar novos desafios e aplicar na prática o que estudo para evoluir como desenvolvedor.
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Lucas-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-<img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Lucas-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">       
-</div>
+## 📚 Resumo
+- Interessado em desenvolvimento de software, com foco em back-end.
+- Em constante aprendizado para construir bases sólidas em programação, bancos de dados e APIs.
+- Determinado a aplicar meus conhecimentos em projetos práticos e crescer junto ao mercado de tecnologia.
 
-##
- 
-<div> 
+ ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white) ![![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Lucas Henrique Monteiro](https://github-readme-stats.vercel.app/api?username=Lucasmonnteiro&show_icons=true) 
+
+## ⭐ Objetivo
+Busco evoluir continuamente, aplicando meus conhecimentos em projetos práticos e colaborando para gerar soluções inovadoras.
+
+## 🌍💻 Conecte-se
+Aberto a oportunidades de aprendizado e colaboração na área de tecnologia.⚡
+
+  <div> 
   <a href="https://www.instagram.com/lucasmonnteiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucmont00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-monteiro-309365227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
